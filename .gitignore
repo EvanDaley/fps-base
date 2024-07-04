@@ -110,3 +110,6 @@ unity-cloud-build-manifest.json
 *.userprefs
 *.opendb
 *.VC.db
+
+ */NeoFPS/*
+ NeoFPS*
