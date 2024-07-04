@@ -111,5 +111,5 @@ unity-cloud-build-manifest.json
 *.opendb
 *.VC.db
 
- */NeoFPS/*
- NeoFPS*
+*/NeoFPS/*
+NeoFPS*
